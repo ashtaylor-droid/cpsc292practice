@@ -1,15 +1,10 @@
 ---
 title: "R Notebook"
-author: "Ashur Taylor
+author: "ashur taylor"
 output: html_notebook
 ---
 
-This is my practice notebook 
-
 ```{r}
 plot(mtcars$mpg, mtcars$wt)
-
-sum(1, 2)
-
 
 ```
